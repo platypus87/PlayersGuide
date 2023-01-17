@@ -1,0 +1,15 @@
+C:\Users\martwhite\repos\playersguide\Inventory\bin\Debug\net6.0\Inventory.exe
+C:\Users\martwhite\repos\playersguide\Inventory\bin\Debug\net6.0\Inventory.deps.json
+C:\Users\martwhite\repos\playersguide\Inventory\bin\Debug\net6.0\Inventory.runtimeconfig.json
+C:\Users\martwhite\repos\playersguide\Inventory\bin\Debug\net6.0\Inventory.dll
+C:\Users\martwhite\repos\playersguide\Inventory\bin\Debug\net6.0\Inventory.pdb
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\Inventory.csproj.AssemblyReference.cache
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\Inventory.AssemblyInfo.cs
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\Inventory.dll
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\refint\Inventory.dll
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\Inventory.pdb
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\Inventory.genruntimeconfig.cache
+C:\Users\martwhite\repos\playersguide\Inventory\obj\Debug\net6.0\ref\Inventory.dll
