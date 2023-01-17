@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsux2tBrc/6AVFmObcI0f50GjmtqK6apoHIgCOxDSn6hxreqBSDz2OtHnVzDQDb2R3Ij872RpYNS8xnTpwPQxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martwhite\\repos\\playersguide\\ThingNamer3000\\ThingNamer3000.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martwhite\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\martwhite\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
