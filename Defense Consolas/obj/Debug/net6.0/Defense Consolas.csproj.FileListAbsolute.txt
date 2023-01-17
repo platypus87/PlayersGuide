@@ -1,0 +1,15 @@
+C:\Users\martwhite\repos\playersguide\Defense Consolas\bin\Debug\net6.0\Defense Consolas.exe
+C:\Users\martwhite\repos\playersguide\Defense Consolas\bin\Debug\net6.0\Defense Consolas.deps.json
+C:\Users\martwhite\repos\playersguide\Defense Consolas\bin\Debug\net6.0\Defense Consolas.runtimeconfig.json
+C:\Users\martwhite\repos\playersguide\Defense Consolas\bin\Debug\net6.0\Defense Consolas.dll
+C:\Users\martwhite\repos\playersguide\Defense Consolas\bin\Debug\net6.0\Defense Consolas.pdb
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\Defense Consolas.csproj.AssemblyReference.cache
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\Defense Consolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\Defense Consolas.AssemblyInfoInputs.cache
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\Defense Consolas.AssemblyInfo.cs
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\Defense Consolas.csproj.CoreCompileInputs.cache
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\Defense Consolas.dll
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\refint\Defense Consolas.dll
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\Defense Consolas.pdb
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\Defense Consolas.genruntimeconfig.cache
+C:\Users\martwhite\repos\playersguide\Defense Consolas\obj\Debug\net6.0\ref\Defense Consolas.dll
