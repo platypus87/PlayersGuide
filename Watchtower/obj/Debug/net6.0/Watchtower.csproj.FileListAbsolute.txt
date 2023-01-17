@@ -1,0 +1,15 @@
+C:\Users\martwhite\repos\playersguide\Watchtower\bin\Debug\net6.0\Watchtower.exe
+C:\Users\martwhite\repos\playersguide\Watchtower\bin\Debug\net6.0\Watchtower.deps.json
+C:\Users\martwhite\repos\playersguide\Watchtower\bin\Debug\net6.0\Watchtower.runtimeconfig.json
+C:\Users\martwhite\repos\playersguide\Watchtower\bin\Debug\net6.0\Watchtower.dll
+C:\Users\martwhite\repos\playersguide\Watchtower\bin\Debug\net6.0\Watchtower.pdb
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\Watchtower.csproj.AssemblyReference.cache
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\Watchtower.AssemblyInfoInputs.cache
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\Watchtower.AssemblyInfo.cs
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\Watchtower.csproj.CoreCompileInputs.cache
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\Watchtower.dll
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\refint\Watchtower.dll
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\Watchtower.pdb
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\Watchtower.genruntimeconfig.cache
+C:\Users\martwhite\repos\playersguide\Watchtower\obj\Debug\net6.0\ref\Watchtower.dll
