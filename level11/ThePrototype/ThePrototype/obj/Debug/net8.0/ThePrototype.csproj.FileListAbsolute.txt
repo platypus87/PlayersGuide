@@ -1,0 +1,15 @@
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.exe
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.deps.json
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.runtimeconfig.json
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.dll
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfoInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfo.cs
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.sourcelink.json
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.dll
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\refint\ThePrototype.dll
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.genruntimeconfig.cache
+C:\Users\amnwh\source\repos\PlayersGuide\level11\ThePrototype\ThePrototype\obj\Debug\net8.0\ref\ThePrototype.dll
