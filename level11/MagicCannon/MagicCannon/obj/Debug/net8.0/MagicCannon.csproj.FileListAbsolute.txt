@@ -1,0 +1,15 @@
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\bin\Debug\net8.0\MagicCannon.exe
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\bin\Debug\net8.0\MagicCannon.deps.json
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\bin\Debug\net8.0\MagicCannon.runtimeconfig.json
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\bin\Debug\net8.0\MagicCannon.dll
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\bin\Debug\net8.0\MagicCannon.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\MagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\MagicCannon.AssemblyInfoInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\MagicCannon.AssemblyInfo.cs
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\MagicCannon.csproj.CoreCompileInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\MagicCannon.sourcelink.json
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\MagicCannon.dll
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\refint\MagicCannon.dll
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\MagicCannon.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\MagicCannon.genruntimeconfig.cache
+C:\Users\amnwh\source\repos\PlayersGuide\level11\MagicCannon\MagicCannon\obj\Debug\net8.0\ref\MagicCannon.dll
