@@ -1,0 +1,15 @@
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.exe
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.deps.json
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.runtimeconfig.json
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.dll
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.AssemblyInfoInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.AssemblyInfo.cs
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.csproj.CoreCompileInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.sourcelink.json
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.dll
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\refint\TakingANumber.dll
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.genruntimeconfig.cache
+C:\Users\amnwh\source\repos\PlayersGuide\Level13\TakingANumber\TakingANumber\obj\Debug\net8.0\ref\TakingANumber.dll

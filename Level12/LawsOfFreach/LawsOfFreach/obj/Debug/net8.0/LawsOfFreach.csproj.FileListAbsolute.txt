@@ -1,0 +1,15 @@
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.exe
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.deps.json
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.runtimeconfig.json
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.dll
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.AssemblyInfoInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.AssemblyInfo.cs
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.csproj.CoreCompileInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.sourcelink.json
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.dll
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\refint\LawsOfFreach.dll
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.genruntimeconfig.cache
+C:\Users\amnwh\source\repos\PlayersGuide\Level12\LawsOfFreach\LawsOfFreach\obj\Debug\net8.0\ref\LawsOfFreach.dll
