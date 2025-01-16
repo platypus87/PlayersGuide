@@ -1,0 +1,15 @@
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\bin\Debug\net8.0\SimulasTest.exe
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\bin\Debug\net8.0\SimulasTest.deps.json
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\bin\Debug\net8.0\SimulasTest.runtimeconfig.json
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\bin\Debug\net8.0\SimulasTest.dll
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\bin\Debug\net8.0\SimulasTest.pdb
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\SimulasTest.AssemblyInfoInputs.cache
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\SimulasTest.AssemblyInfo.cs
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\SimulasTest.csproj.CoreCompileInputs.cache
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\SimulasTest.sourcelink.json
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\SimulasTest.dll
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\refint\SimulasTest.dll
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\SimulasTest.pdb
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\SimulasTest.genruntimeconfig.cache
+C:\Users\martwhite\repos\PlayersGuide\16-Enums\SimulasTest\obj\Debug\net8.0\ref\SimulasTest.dll
