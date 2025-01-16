@@ -1,0 +1,15 @@
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\bin\Debug\net8.0\MemMgmt.exe
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\bin\Debug\net8.0\MemMgmt.deps.json
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\bin\Debug\net8.0\MemMgmt.runtimeconfig.json
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\bin\Debug\net8.0\MemMgmt.dll
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\bin\Debug\net8.0\MemMgmt.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\MemMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\MemMgmt.AssemblyInfoInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\MemMgmt.AssemblyInfo.cs
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\MemMgmt.csproj.CoreCompileInputs.cache
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\MemMgmt.sourcelink.json
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\MemMgmt.dll
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\refint\MemMgmt.dll
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\MemMgmt.pdb
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\MemMgmt.genruntimeconfig.cache
+C:\Users\amnwh\source\repos\PlayersGuide\Level14\MemMgmt\obj\Debug\net8.0\ref\MemMgmt.dll
